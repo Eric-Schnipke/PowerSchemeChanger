@@ -1,8 +1,13 @@
 ###############################################################################
 # File:        PowerSchemeChanger.ps1
+#
 # AUTHOR:      Eric Schnipke, 2016
+#
 # LICENSE:     MIT License
-# DESCRIPTION: Aliases "power" cmd to "powercfg" and eases setting changing.
+#
+# DESCRIPTION: Eases on-the-fly Windows power scheme changes within PowerShell.
+#              Aliases "power" cmd to "powercfg" and eases setting changing.
+#
 # USAGE:       Reference script within PowerShell profile to enable global
 #              usage.
 ###############################################################################
