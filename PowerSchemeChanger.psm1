@@ -15,7 +15,7 @@
 #              3. In your PowerShell profile script, add
 #                 "Import-Module PowerSchemeChanger".
 #              4. From PowerShell command prompt, issue "power" command with
-#                 "p*", "h*", or "b*" arugments.
+#                 "p*", "h*", or "b*" arguments.
 ###############################################################################
 
 function power
